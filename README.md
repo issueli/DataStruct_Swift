@@ -1,2 +1,2 @@
 # DataStruct_Swift
-Data strut implement by swift
+Data struct implemented by swift.
